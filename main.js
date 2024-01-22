@@ -1,6 +1,6 @@
-import './style.css';
 
-const canvas = document.querySelector('canvas');
+
+const canvas = document.querySelector('body');
 const context = canvas.getContext('2d');
 
 const BLOCK_SIZE = 20;
